@@ -1,0 +1,92 @@
+body{background-color: black;
+    color: antiquewhite;
+}
+.picture {
+    float: left;
+    width: 33.33%;
+    height: 600px;
+    padding: 5px;
+    
+  }
+  .facilities{
+    float: left;
+    margin-left: 140px;
+    width: 33.33%;
+    height: 600px;
+    padding: 5px;
+  }
+  h3{
+    color:rgb(200, 48, 48);
+    font-family:serif
+  }
+  li{
+    margin-bottom: 15px;
+    font-size: 25px;
+  }
+  .picture2 {
+    float: right;
+    width: 33.33%;
+    height: 600px;
+    padding: 5px;
+    
+  }
+ 
+  .p1 {    
+    float: right;
+    width: 50.35%;
+    
+  }
+  #introduction{
+    margin:30px;
+    height: 600px;
+  }
+  .detail{
+height: 600px;
+  }
+  .card{
+    height: 400px;
+  }
+.card1{
+    float: left;
+    width: 250px;
+    margin-left: 10%;
+    text-align: justify;
+    background-color:rgb(23, 110, 94);
+    height: 300px;
+    padding: 5px;
+    border: 5px solid rgb(26, 135, 113);
+    text-align: justify;
+    box-shadow: 20px 20px 20px; 
+    box-shadow: 25px;
+
+}
+
+.card2{
+    float: left;
+    margin-left: 14%;
+    width: 250px;
+    text-align: justify;
+    background-color:rgb(23, 110, 94);
+    height: 300px;
+    padding: 5px;
+    border: 5px solid rgb(26, 135, 113);
+    text-align: justify;
+    box-shadow: 20px 20px 20px; 
+    box-shadow: 25px;
+}
+.card3{
+    float: right;
+    margin-right: 10% ;
+    width: 250px;
+    text-align: justify;
+    background-color:rgb(23, 110, 94);
+    height: 300px;
+    padding: 5px;
+    border: 5px solid rgb(26, 135, 113);
+    text-align: justify;
+    box-shadow: 20px 20px 20px; 
+    box-shadow: 25px;
+}
+footer{
+    text-align: center;
+}
